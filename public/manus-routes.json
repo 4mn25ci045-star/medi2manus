@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Overview"},{"path":"/monitoring","title":"System Monitoring"},{"path":"/recovery","title":"Recovery Center"},{"path":"/backups","title":"Backups"},{"path":"/cost","title":"Cost Estimator"},{"path":"/audit","title":"Audit Log"},{"path":"/runbook","title":"Recovery Runbook"}]}
